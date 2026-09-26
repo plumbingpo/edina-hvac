@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edinahvac.com/sitemap.xml
